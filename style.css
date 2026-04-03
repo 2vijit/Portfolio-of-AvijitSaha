@@ -641,11 +641,11 @@
     transition: all 0.15s;
   }
 
-  .skill-tag:hover {
+  /* .skill-tag:hover {
     background: var(--accent);
     color: var(--paper);
     border-color: var(--accent);
-  }
+  } */
 
   /* ── PROJECTS ── */
   #projects { background: var(--paper); }
